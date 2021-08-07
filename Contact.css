@@ -1,0 +1,80 @@
+.heading {
+    font: 70px Times;
+    font-weight: 500;
+    text-align: left;
+    color: #f8eee7;
+    background-color: #2a1b3d;
+    width: 47.65cm;
+    height: 8cm;
+    line-height: 2.6cm;
+    margin-top: 0.73cm; 
+    margin-left: -0.15cm;
+    padding: 0.6cm; 
+    border: 3px white;
+    border-style: none none solid none;
+}
+  
+.heading a {
+    text-decoration: none;
+}
+  
+.logo {
+    width: 10cm;
+    height: auto;
+    float: left ;
+}
+  
+.nav {
+    color: #f8eee7;
+    font-size: 40px;
+    margin-left: 3cm;
+    height: 4.5cm;
+}
+  
+.nav:hover {
+    background-color: rgb(57, 33, 80);
+}
+  
+body {
+    background-color:rgb(57, 33, 80);
+    position: relative;
+    height: 20cm;
+    top: -0.72cm;
+} 
+
+.content {
+    font: 25px Times;
+    line-height: 1cm;
+}
+
+#para3 {  
+  font: 25px Times;
+  font-weight: 500;
+  text-align: center;
+  color: #f8eee7;
+  background-color: #2a1b3d;
+  border: 3px solid white;
+  margin-left: -0.2cm;
+  margin-top: 7cm; 
+  margin-bottom: 2cm;
+  width: 48.75cm;
+  height: 3.5cm;
+  color: #f8eee7;
+  line-height: 1.1cm; 
+}
+
+.about {
+    color: #f8eee7;
+  }
+  
+  .about:hover {
+    background-color: rgb(78, 37, 78);
+  }
+  
+  .contact {
+    color: #f8eee7;
+  }
+  
+  .contact:hover {
+    background-color: rgb(78, 37, 78);
+  }

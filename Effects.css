@@ -1,0 +1,220 @@
+.heading {
+    font: 70px Times;
+    font-weight: 500;
+    text-align: left;
+    color: #f8eee7;
+    background-color: #2a1b3d;
+    width: 47.65cm;
+    height: 8cm;
+    line-height: 2.6cm;
+    margin-top: 0.73cm; 
+    margin-left: -0.15cm;
+    padding: 0.6cm; 
+}
+  
+.heading a {
+    text-decoration: none;
+}
+  
+.logo {
+    width: 10cm;
+    height: auto;
+    float: left ;
+}
+  
+.nav {
+    color: #f8eee7;
+    font-size: 40px;
+    margin-left: 3cm;
+    height: 4.5cm;
+}
+  
+.nav:hover {
+    background-color: rgb(57, 33, 80);
+}
+  
+body {
+    background-color:rgb(57, 33, 80);
+    position: relative;
+    height: 429.055cm;
+    top: -0.72cm;
+} 
+  
+.div1 {
+    margin-left: 25%;
+} 
+  
+.div2 {
+    top: 0; 
+    position: sticky; 
+    background-color: #46286d; 
+    border: 3px solid white;
+    border-style: solid solid none solid;
+    margin-left: -0.2cm; 
+    margin-top: -415.72cm;
+    width: 25%;
+    height: 24.8cm; 
+} 
+  
+.list {
+    text-align: center;
+    font: 40px Times;
+    font-weight: 800;
+}
+  
+.button {
+    color: #f8eee7;
+    background-color: rgb(57, 33, 80);
+    border: 3px solid white;
+    border-style: solid none solid none;
+    padding: 0.5cm; 
+    text-decoration: none;
+}
+  
+  
+.button:hover {
+    background-color: rgb(78, 37, 78);
+}
+  
+.experiment-name {
+    border: 3px solid white;
+    background-color: rgb(78, 37, 78);
+    text-align: center;
+    margin-top: -1.25cm; 
+    margin-left: -0.16cm;
+    margin-right: -0.2cm;
+    padding: 1cm;
+    font: 70px Times;
+    font-weight: 1000;
+}
+  
+.content {
+    font: 25px Times;
+}
+
+.img {
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+}
+
+.img2 {
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img2:hover {
+    content: url("spck1 img/mandela2'.png");
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img3 {
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img3:hover {
+    content: url("spck1 img/mandela3'.png");
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img4 {
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img4:hover {
+    content: url("spck1 img/mandela4'.png");
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img5 {
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img5:hover {
+    content: url("spck1 img/mandela5'.png");
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img6 {
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img6:hover {
+    content: url("spck1 img/mandela6'.png");
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img7 {
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+.img7:hover {
+    content: url("spck1 img/mandela7'.png");
+    border: 10px solid transparent;
+    border-image: url("spck1 border img/border.png") 30% round;
+    width: 13cm;
+    height: auto;
+}
+
+#para3 {  
+  font: 25px Times;
+  font-weight: 500;
+  text-align: center;
+  color: #f8eee7;
+  background-color: #2a1b3d;
+  border: 3px solid white;
+  margin-left: -0.2cm;
+  margin-top: 395cm; 
+  margin-bottom: 2cm;
+  width: 48.75cm;
+  height: 3.5cm;
+  color: #f8eee7;
+  line-height: 1.1cm; 
+}
+
+.about {
+    color: #f8eee7;
+  }
+  
+  .about:hover {
+    background-color: rgb(78, 37, 78);
+  }
+  
+  .contact {
+    color: #f8eee7;
+  }
+  
+  .contact:hover {
+    background-color: rgb(78, 37, 78);
+  }

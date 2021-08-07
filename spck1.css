@@ -1,0 +1,236 @@
+.heading {
+  font: 70px Times;
+  font-weight: 500;
+  text-align: left;
+  color: #f8eee7;
+  background-color: #2a1b3d;
+  width: 47.65cm;
+  height: 8cm;
+  line-height: 2.6cm;
+  margin-top: 0.73cm; 
+  margin-left: -0.15cm;
+  padding: 0.6cm;
+  border: 3px black; 
+  border-style: none none solid none;
+}
+
+.heading a {
+  text-decoration: none;
+}
+
+.logo {
+  width: 10cm;
+  height: auto;
+  float: left ;
+}
+
+.nav {
+  color: #f8eee7;
+  font-size: 40px;
+  margin-left: 3cm;
+  height: 4.5cm;
+}
+
+.nav:hover {
+  background-color: rgb(57, 33, 80);
+}
+
+body {
+  background-color:rgb(57, 33, 80);
+  position: relative;
+  background-repeat: no-repeat;
+  top: -0.72cm;
+}
+
+.tube {
+  width: 15%;
+  height: 0%;
+  margin-left: 6cm;
+  margin-top: 6cm;
+}
+
+#para1 {
+  margin-top: -35cm;
+  padding-left: 16.5cm;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 150px ;
+  color: #f8eee7;
+}
+
+#para2 {
+  text-align: center;
+  padding-left: 16.5cm;
+  margin-top: -2cm;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 28px ;
+  color: #f8eee7;
+}
+
+#para3 {  
+  font: 25px Times;
+  font-weight: 500;
+  text-align: center;
+  color: #f8eee7;
+  background-color: #2a1b3d;
+  border: 3px solid white;
+  margin-top: 9cm;
+  margin-left: -0.2cm;
+  margin-bottom: -1cm;
+  width: 48.75cm;
+  height: 3.5cm;
+  color: #f8eee7;
+  line-height: 1.1cm; 
+}
+
+.about {
+  color: #f8eee7;
+}
+
+.about:hover {
+  background-color: rgb(78, 37, 78);
+}
+
+.contact {
+  color: #f8eee7;
+}
+
+.contact:hover {
+  background-color: rgb(78, 37, 78);
+}
+
+.h1-design {
+  font-size: 40px;
+  color: white;
+}
+
+.p-design {
+  font-size: 19px;
+  font-weight: 1000;
+  color: white;
+}
+
+.student {
+  width: 300px;
+  height: 300px;
+}
+
+.flip-student-card {
+  margin-left: 16.5cm;
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+  background-color: rgb(57, 33, 80);
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-student-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.teacher {
+  width: 300px;
+  height: 300px;
+}
+
+.flip-teacher-card {
+  float: right;
+  margin-right: 12cm;
+  margin-top: -8.65cm;
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+  background-color: rgb(57, 33, 80);
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-teacher-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.scientist {
+  width: 300px;
+  height: 300px;
+}
+
+.flip-scientist-card {
+  float: right;
+  margin-top: -8.65cm;
+  margin-right: 0.5cm;
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+  background-color: rgb(57, 33, 80);
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-scientist-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.random {
+  width: 300px;
+  height: 300px;
+}
+
+.flip-random-card {
+  margin-top: 2.82cm;
+  margin-left: 28.1cm;
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+  background-color: rgb(57, 33, 80);
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-random-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: rgb(81, 199, 160);
+  color: white;
+  transform: rotateY(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+

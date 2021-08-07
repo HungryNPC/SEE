@@ -1,0 +1,182 @@
+.heading {
+  font: 70px Times;
+  font-weight: 500;
+  text-align: left;
+  color: #f8eee7;
+  background-color: #2a1b3d;
+  width: 47.65cm;
+  height: 8cm;
+  line-height: 2.6cm;
+  margin-top: 0.73cm; 
+  margin-left: -0.15cm;
+  padding: 0.6cm;
+}
+
+.heading a {
+  text-decoration: none;
+}
+
+.logo {
+  width: 10cm;
+  height: auto;
+  float: left ;
+}
+
+.nav {
+  color: #f8eee7;
+  font-size: 40px;
+  margin-left: 3cm;
+  height: 4.5cm;
+}
+
+.nav:hover {
+  background-color: rgb(57, 33, 80);
+}
+
+body {
+  background-color:rgb(57, 33, 80);
+  position: relative;
+  height: 399.9cm;
+  top: -0.72cm;
+} 
+
+.div1 {
+  margin-left: 25%;
+}
+
+.div2 {
+  top: 0; 
+  position: sticky; 
+  background-color: #46286d; 
+  border: 3px solid white;
+  border-style: solid solid none solid;
+  margin-left: -0.2cm; 
+  margin-top: -384.48cm;
+  width: 25%;
+  height: 24.8cm; 
+} 
+
+.list {
+  text-align: center;
+  font: 40px Times;
+  font-weight: 800;
+}
+
+.button {
+  color: #f8eee7;
+  background-color: rgb(57, 33, 80);
+  border: 3px solid white;
+  border-style: solid none solid none;
+  padding: 0.5cm; 
+  text-decoration: none;
+}
+
+
+.button:hover {
+  background-color: rgb(78, 37, 78);
+}
+
+.experiment-name {
+  border: 3px solid white;
+  background-color: rgb(78, 37, 78);
+  text-align: center;
+  margin-top: -1.25cm; 
+  margin-left: -0.16cm;
+  margin-right: -0.2cm;
+  padding: 1cm;
+  font: 70px Times;
+  font-weight: 1000;
+}
+
+.content {
+  font: 25px Times;
+}
+
+.cat {
+  margin-left: 6.5cm;
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.cat1 {
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+  width: 100%;
+  margin-left: 4cm;
+}
+
+.cat1:hover {
+  content: url("spck1 img/cat1.jpg");
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+}
+
+.cat2 {
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+  width: 100%;
+  margin-left: 7cm;
+}
+
+.cat2:hover {
+  content: url("spck1 img/cat2.jpg");
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+}
+
+.img {
+  border: 10px solid transparent;
+  border-image: url("spck1 border img/border.png") 30% round;
+}
+
+#para3 {  
+  font: 25px Times;
+  font-weight: 500;
+  text-align: center;
+  color: #f8eee7;
+  background-color: #2a1b3d;
+  border: 3px solid white;
+  margin-left: -0.2cm;
+  margin-top: 365.845cm; 
+  margin-bottom: 2cm;
+  width: 48.75cm;
+  height: 3.5cm;
+  color: #f8eee7;
+  line-height: 1.1cm; 
+}
+
+.about {
+  color: #f8eee7;
+}
+
+.about:hover {
+  background-color: rgb(78, 37, 78);
+}
+
+.contact {
+  color: #f8eee7;
+}
+
+.contact:hover {
+  background-color: rgb(78, 37, 78);
+}
+
+
+  
+
+
+
+
