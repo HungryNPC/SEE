@@ -95,7 +95,7 @@ body {
 .cat {
   margin-left: 6.5cm;
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
 }
 
 
@@ -113,33 +113,33 @@ body {
 
 .cat1 {
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
   width: 100%;
   margin-left: 4cm;
 }
 
 .cat1:hover {
-  content: url("spck1 img/cat1.jpg");
+  content: url("spck1-img/cat1.jpg");
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
 }
 
 .cat2 {
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
   width: 100%;
   margin-left: 7cm;
 }
 
 .cat2:hover {
-  content: url("spck1 img/cat2.jpg");
+  content: url("spck1-img/cat2.jpg");
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
 }
 
 .img {
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
 }
 
 #para3 {  

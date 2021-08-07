@@ -94,95 +94,95 @@ body {
 
 .img {
   border: 10px solid transparent;
-  border-image: url("spck1 border img/border.png") 30% round;
+  border-image: url("spck1-border-img/border.png") 30% round;
 }
 
 .img2 {
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img2:hover {
-    content: url("spck1 img/mandela2'.png");
+    content: url("spck1-img/mandela2'.png");
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck- border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img3 {
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img3:hover {
-    content: url("spck1 img/mandela3'.png");
+    content: url("spck1-img/mandela3'.png");
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img4 {
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img4:hover {
-    content: url("spck1 img/mandela4'.png");
+    content: url("spck1-img/mandela4'.png");
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img5 {
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img5:hover {
-    content: url("spck1 img/mandela5'.png");
+    content: url("spck1-img/mandela5'.png");
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img6 {
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img6:hover {
-    content: url("spck1 img/mandela6'.png");
+    content: url("spck1-img/mandela6'.png");
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img7 {
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
 
 .img7:hover {
-    content: url("spck1 img/mandela7'.png");
+    content: url("spck1-img/mandela7'.png");
     border: 10px solid transparent;
-    border-image: url("spck1 border img/border.png") 30% round;
+    border-image: url("spck1-border-img/border.png") 30% round;
     width: 13cm;
     height: auto;
 }
